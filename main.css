@@ -1,0 +1,27 @@
+body{
+	color:#000; 
+	background-color:#fff;
+	font-size:14px;
+	font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	text-align: center;
+	line-height:15px;
+	width:250px;
+	height:80px;
+}
+#help_link{
+	margin-bottom:5px;
+}
+#help_chat{
+	width:250px;
+}
+#wiki_search{
+	width:100%;
+}
+#searchInput{
+	font-size: 14px;
+	width:83%;
+}
+#searchGoButton{
+	font-size: 14px;
+	width:15%;
+}
